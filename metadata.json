@@ -1,0 +1,7 @@
+{
+  "name": "Sample: Interactive Installation Platform",
+  "description": "A modern, interactive installation manual featuring dynamic workflows, microlearning cards, progress tracking, and AI-powered troubleshooting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
